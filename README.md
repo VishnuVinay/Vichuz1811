@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vichuz1811
 - 👀 I’m interested in android app development
-- 🌱 I’m currently learning B.Ttech.
+- 🌱 I’m currently learning B.Tech.
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me vishnuv1811@gmail.com
 
