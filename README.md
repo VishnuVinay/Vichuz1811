@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vichuz1811
+- 👋 Hi, I’m Vishnu Vinay
 - 👀 I’m interested in android app development
 - 🌱 I’m currently learning B.Tech.
 - 💞️ I’m looking to collaborate on android development
